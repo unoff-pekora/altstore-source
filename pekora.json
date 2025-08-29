@@ -1,0 +1,114 @@
+{
+    "name": "Unofficial Pekora AltStore Source",
+    "subtitle": "An unofficial source for AltStore to help install Pekora on iOS devices.",
+    "description": "An unofficial source for AltStore to help install Pekora on iOS devices.",
+    "iconURL": "https://www.pekora.zip/img/favicon.png",
+    "headerURL": "https://www.pekora.zip/img/DownloadBackground.jpg",
+    "website": "https://pekora.zip",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.example.myapp",
+        "com.example.anotherapp"
+    ],
+    "apps": [
+        {
+            "name": "Pekora 2017",
+            "bundleIdentifier": "com.roblox.robloxmobile2018",
+      "developerName": "Pekora",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://www.pekora.zip/img/favicon.png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+          "buildVersion": "1",
+          "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://setup.pekora.zip/Pekora2017.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        },
+        {
+            "name": "Pekora 2018",
+            "bundleIdentifier": "com.roblox.robloxmobile2018",
+      "developerName": "Pekora",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://www.pekora.zip/img/favicon.png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+          "buildVersion": "1",
+          "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://setup.pekora.zip/Pekora2018.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        },
+        {
+            "name": "Pekora 2020",
+            "bundleIdentifier": "com.roblox.robloxmobile2020",
+      "developerName": "Pekora",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://www.pekora.zip/img/favicon.png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+          "buildVersion": "1",
+          "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://setup.pekora.zip/Pekora2020.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        },
+    ]
+}
